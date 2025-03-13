@@ -3,7 +3,7 @@
 
 
 
-![游戏体验](https://via.placeholder.com/800x400/9370DB/FFFFFF?text=Bubble+Magic+Game)
+![游戏体验]([https://via.placeholder.com/800x400/9370DB/FFFFFF?text=Bubble+Magic+Game](https://qiriz.github.io/Stress-Relief-Bubbles-Game/))
 
 ## 🌌 游戏简介
 《解压泡泡戳》是一款休闲解压类小游戏，游戏的内容类型为轻量级治愈系游戏。
