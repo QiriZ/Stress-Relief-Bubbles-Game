@@ -1,16 +1,9 @@
 # 《解压泡泡戳游戏》Stress-Relief-Bubbles-Game 
 一款结合沉浸式戳气泡游戏，通过梦幻渐变色背景与动态粒子效果，营造独特的视听体验。玩家在不同主题场景中完成气泡挑战，解锁成就并获得ASMR音效反馈，能够放松心情、缓解焦虑。Stress Relief Bubbles is an immersive bubble elimination game. You can relax your nerves by eliminating bubbles. The Zen mode in the game can help you practice concentration.
 
-![游戏封面](https://github.com/QiriZ/Stress-Relief-Bubbles-Game/blob/main/images/特色1场景.png)
-
-
 ## 🌐 在线试玩
 👉 [点击这里立即试玩](https://qiriz.github.io/Stress-Relief-Bubbles-Game/)
 
-## 🖼️ 游戏截图
-| 太空主题 | 森林主题 |
-|----------|----------|
-| ![太空场景](https://github.com/QiriZ/Stress-Relief-Bubbles-Game/blob/main/images/特色1场景.png) | ![森林场景](https://github.com/QiriZ/Stress-Relief-Bubbles-Game/blob/main/images/特色2场景.png) |
 
 ## ✨ 核心特色
 - **4大主题场景**：天空、海底、太空、森林
