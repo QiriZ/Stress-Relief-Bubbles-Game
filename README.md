@@ -1,6 +1,6 @@
-# Stress-Relief-Bubbles-Game 《解压泡泡戳游戏》
-Stress Relief Bubbles is an immersive bubble elimination game. You can relax your nerves by eliminating bubbles. The Zen mode in the game can help you practice concentration.
-一款结合沉浸式戳气泡游戏，通过梦幻渐变色背景与动态粒子效果，营造独特的视听体验。玩家在不同主题场景中完成气泡挑战，解锁成就并获得ASMR音效反馈。
+# 《解压泡泡戳游戏》Stress-Relief-Bubbles-Game 
+一款结合沉浸式戳气泡游戏，通过梦幻渐变色背景与动态粒子效果，营造独特的视听体验。玩家在不同主题场景中完成气泡挑战，解锁成就并获得ASMR音效反馈。Stress Relief Bubbles is an immersive bubble elimination game. You can relax your nerves by eliminating bubbles. The Zen mode in the game can help you practice concentration.
+
 
 
 ![游戏体验](https://via.placeholder.com/800x400/9370DB/FFFFFF?text=Bubble+Magic+Game)
