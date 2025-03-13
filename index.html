@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>泡泡戳 - 轻松解压的泡泡游戏</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div id="game-container">
+        <div id="game-header">
+            <div id="scene-switcher" class="header-item">场景切换</div>
+            <div id="achievement-wall" class="header-item">成就墙</div>
+            <div id="settings" class="header-item">设置</div>
+        </div>
+        
+        <div id="game-content">
+            <div id="bubble-container"></div>
+            <div id="promo-bubble" class="big-bubble">泡泡戳</div>
+            <div id="game-notice">
+                <h3>健康游戏忠告</h3>
+                <p>抵制不良游戏，拒绝盗版游戏。<br>
+                注意自我保护，谨防受骗上当。<br>
+                适度游戏益脑，沉迷游戏伤身。<br>
+                合理安排时间，享受健康生活。</p>
+            </div>
+        </div>
+        
+        <div id="game-footer">
+            <div id="classic-mode" class="mode-button">经典模式</div>
+            <div id="challenge-mode" class="mode-button">挑战模式</div>
+            <div id="zen-mode" class="mode-button">禅模式</div>
+        </div>
+        
+        <div id="game-hud" class="hidden">
+            <div id="hud-top-left">
+                <div id="fragment-counter">碎片: 0</div>
+            </div>
+            <div id="hud-bottom-right">
+                <div id="music-control">🎵</div>
+                <div id="pause-menu">⏸️</div>
+                <div id="speed-controls">
+                    <div id="speed-slow" class="speed-button">慢</div>
+                    <div id="speed-medium" class="speed-button active">中</div>
+                    <div id="speed-fast" class="speed-button">快</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 游戏脚本 -->
+    <script src="./js/utils.js"></script>
+    <script src="./js/bubble.js"></script>
+    <script src="./js/game.js"></script>
+    <script src="./js/scenes.js"></script>
+    <script src="./js/ui.js"></script>
+    <script src="./js/achievements.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>
